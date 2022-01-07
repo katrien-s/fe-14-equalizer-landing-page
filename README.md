@@ -44,7 +44,7 @@ Users should be able to:
 ### What I learned
 
 When an svg is embedded in an `<img>`-tag, you can not change color by adjusting the `fill` but you need to use `filter`.
-I'm also feeling a lot more comfortable using positioning since last exercise. 
+I'm also feeling a lot more comfortable using positioning since last exercise.
 
 ### Useful resources
 
@@ -54,6 +54,6 @@ I'm also feeling a lot more comfortable using positioning since last exercise.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [www.katriens.be](https://www.katriens.be)
+- Frontend Mentor - [@graficdoctor](https://www.frontendmentor.io/profile/graficdoctor)
+- Twitter - [@graficdoctor](https://www.twitter.com/graficdoctor)
